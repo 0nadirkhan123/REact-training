@@ -1,0 +1,5 @@
+Installed node
+Set up VScode with extensions(live server, code runner)
+Learned and practiced HTML
+NOTE: Revise HTML structure and the different tags 
+reffer: W3schools, gfg 
