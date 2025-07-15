@@ -1,0 +1,39 @@
+
+body {  
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header, main,footer {
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+header {
+    background-color: #9e8b8b;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+nav ul li {
+    margin:10px;
+    color: aqua;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+footer {
+    background-color: #ccc4c4;
+    text-align: center;
+}
